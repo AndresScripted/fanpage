@@ -13,8 +13,30 @@ a {
 
 .main {
     height: 100%;
+    
 }
 .social-image{
     width: 30px;
     margin: 15px;
+}
+.header{
+    display: flex;
+    justify-content: center;
+}
+.navbar{
+    display: flex;
+    justify-content: space-around;
+}
+.social{
+    display: flex;
+    justify-content: space-around;
+}
+.aboutMain{
+    display: flex;
+}
+.leftPane{
+    width: 50%;
+}
+.rightPane{
+    width: 50%;
 }
